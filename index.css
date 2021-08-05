@@ -1,0 +1,10 @@
+.container{
+  display: flex; 
+  width: 1400px;
+  height: 750px;
+  border: 1px solid black;
+}
+.left_menu{
+  width: 240px;
+  height: 990px;
+}
